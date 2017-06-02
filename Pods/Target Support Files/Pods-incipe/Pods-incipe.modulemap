@@ -1,0 +1,6 @@
+framework module Pods_incipe {
+  umbrella header "Pods-incipe-umbrella.h"
+
+  export *
+  module * { export * }
+}
